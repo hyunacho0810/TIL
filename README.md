@@ -8,4 +8,6 @@
 
 - 파이썬 day 2 (01/16)
 
+  [파이썬 day 2](https://github.com/hyunacho0810/TIL/blob/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20day2%200116)
+
 - 파이썬 day 3 (01/17)
