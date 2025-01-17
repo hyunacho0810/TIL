@@ -1,4 +1,4 @@
-# 이것은 나의 TIL 시작
+# SSAFY TIL(Today I Learned)
 
 
 ## 수업 필기 및 실습
